@@ -9,5 +9,5 @@
  * @author CVERA
  */
 public class abmClientes {
-    
+    int edad;
 }
