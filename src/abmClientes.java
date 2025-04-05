@@ -10,4 +10,5 @@
  */
 public class abmClientes {
     int edad;
+    int cedula;
 }
